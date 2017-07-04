@@ -1,1 +1,1 @@
-# spotify-learning
+# Learning Spotify
